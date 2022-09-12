@@ -1,0 +1,10 @@
+﻿<prism:PrismApplication x:Class="TcpServer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             DispatcherUnhandledException="Application_DispatcherUnhandledException"
+             xmlns:local="clr-namespace:TcpServer">
+    <prism:PrismApplication.Resources>
+         
+    </prism:PrismApplication.Resources>
+</prism:PrismApplication>
